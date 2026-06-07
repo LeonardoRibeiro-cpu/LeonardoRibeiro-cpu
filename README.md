@@ -18,18 +18,10 @@ Construo APIs REST e interfaces web indo além da sala de aula — comprometido 
  
 ## 📌 Atualmente
  
-- 🎓 Cursando Tecnologia de Sistemas Para Internet
+- 🎓 Cursando Tecnologia em Sistemas para Internet
 - ⚙️ Desenvolvendo APIs REST com Java + Spring Boot
 - ⚛️ Construindo interfaces com React + Vite
 - 📖 Sempre aprendendo algo novo
----
- 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoRibeiro-cpu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRibeiro-cpu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800)
- 
 ---
  
 ## 📫 Contato
